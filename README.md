@@ -4,14 +4,14 @@
 
 <br/>
 
-[![Bot Status](https://img.shields.io/badge/🌸%20Miko%20Bot-Online-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://top.gg/bot/1477957460575649903?s=07e5afdc07178)
+[![Bot Status](https://img.shields.io/badge/🌸%20Miko%20Bot-Online-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1477957460575649903&scope=bot%20applications.commands&permissions=0)
 [![Policy Live](https://img.shields.io/badge/📜%20Policy%20Page-Live-00C896?style=for-the-badge&logo=github&logoColor=white)](https://MikoDev-Sd.github.io/miko-privacy/)
-[![Top.gg](https://img.shields.io/badge/Vote%20Miko-Top.gg-FF3366?style=for-the-badge)](https://top.gg/bot/1477957460575649903)
+[![Add to Server](https://img.shields.io/badge/➕%20Add%20Miko-Invite-FF3366?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1477957460575649903&scope=bot%20applications.commands&permissions=0)
 [![Developer](https://img.shields.io/badge/Dev-levi__ackerman.09-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Last Updated](https://img.shields.io/badge/Updated-June%202025-blue?style=for-the-badge)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-June%202026-blue?style=for-the-badge)](.)
 
 </div>
 
@@ -86,7 +86,7 @@ miko-privacy/
 
 </div>
 
-[![Add Miko to Your Server](https://img.shields.io/badge/➕%20Add%20Miko%20to%20Your%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://top.gg/bot/1477957460575649903?s=07e5afdc07178)
+[![Add Miko to Your Server](https://img.shields.io/badge/➕%20Add%20Miko%20to%20Your%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1477957460575649903&scope=bot%20applications.commands&permissions=0)
 
 ---
 
@@ -235,7 +235,7 @@ This privacy policy may be updated over time as Miko adds new features. When the
 - Significant changes will be announced in the Miko support server
 - Continued use of Miko after a policy update constitutes acceptance of the new policy
 
-**Current Version:** June 2025  
+**Current Version:** June 2026  
 **Bot Version:** Miko V7
 
 ---
@@ -276,6 +276,8 @@ The webpage (`index.html`) in this repository is automatically served via GitHub
 **This policy complies with Discord's [Developer Terms of Service](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service).**
 
 Made with 💙 by **[MikoDev-Sd](https://github.com/MikoDev-Sd)** · Pakistan 🇵🇰
+
+[![Add Miko to Your Server](https://img.shields.io/badge/➕%20Add%20Miko%20to%20Your%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1477957460575649903&scope=bot%20applications.commands&permissions=0)
 
 ![Views](https://komarev.com/ghpvc/?username=MikoDev-Sd&color=5865F2&style=flat-square&label=Repo+Views)
 

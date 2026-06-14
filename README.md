@@ -80,7 +80,6 @@ miko-privacy/
 | 🎉 Fun | 23 | Roast, Ship, 8Ball, Jokes, Facts, Compliments & more |
 | 🔧 Utility | 25 | UserInfo, Weather, Translate, Polls, Reminders & more |
 | 👑 Admin | 22 | AutoRole, Announce, Giveaway, Logs, Sticky & more |
-| 🔑 Owner | 20 | Bot management and owner-only controls |
 
 **Total: 146+ Slash Commands · Prefix: `m!` · Framework: discord.js v14**
 

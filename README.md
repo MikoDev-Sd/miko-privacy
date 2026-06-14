@@ -25,7 +25,7 @@
 
 [![Add Miko](https://img.shields.io/badge/➕%20Add%20Miko%20to%20Your%20Server-CC0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1477957460575649903&scope=bot%20applications.commands&permissions=0)
 [![Support Server](https://img.shields.io/badge/💬%20Support%20Server-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DUKpjHJtj3)
-[![Policy Live](https://img.shields.io/badge/📜%20Policy%20Page-Live-FF3333?style=for-the-badge&logo=github&logoColor=white)](https://MikoDev-Sd.github.io/miko-privacy/)
+[![Policy Live](https://img.shields.io/badge/📜%20Policy%20Page-Live-FF3333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikoDev-Sd/miko-privacy)
 
 </div>
 
@@ -368,9 +368,9 @@ process.on("uncaughtException", (err) => {
 
 ## 📦 About This Repository
 
-This is the **official privacy policy repository** for **Miko V7**. This policy is required by Discord's Developer Terms of Service and is publicly accessible via GitHub Pages.
+This is the **official privacy policy repository** for **Miko V7**. This policy is required by Discord's Developer Terms of Service and is publicly accessible via GitHub.
 
-> 🔗 **Live Policy Webpage:** [MikoDev-Sd.github.io/miko-privacy](https://MikoDev-Sd.github.io/miko-privacy/)
+> 🔗 **Repository:** [github.com/MikoDev-Sd/miko-privacy](https://github.com/MikoDev-Sd/miko-privacy)
 
 ```
 miko-privacy/
@@ -701,14 +701,13 @@ If you have questions, want to request data deletion, report a concern, or need 
 | 💬 **Discord DM** | `levi_ackerman.09` |
 | 🏠 **Support Server** | [discord.gg/DUKpjHJtj3](https://discord.gg/DUKpjHJtj3) |
 | 🤖 **Bot ID** | `1477957460575649903` |
-| 📄 **Policy Webpage** | [MikoDev-Sd.github.io/miko-privacy](https://MikoDev-Sd.github.io/miko-privacy/) |
+| 📄 **Policy Repository** | [github.com/MikoDev-Sd/miko-privacy](https://github.com/MikoDev-Sd/miko-privacy) |
 
 </div>
 
 > We aim to respond to **all** privacy-related inquiries within **48 hours**.
 
 ---
-
 
 <div align="center">
 

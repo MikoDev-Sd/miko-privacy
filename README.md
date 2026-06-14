@@ -62,7 +62,6 @@
 | 12 | [❓ FAQ](#-faq) |
 | 13 | [🔄 Policy Updates](#-policy-updates) |
 | 14 | [📬 Contact](#-contact) |
-| 15 | [🌐 Live Policy Page](#-live-policy-page) |
 
 ---
 

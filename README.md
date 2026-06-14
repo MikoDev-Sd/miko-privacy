@@ -329,36 +329,6 @@ process.on("uncaughtException", (err) => {
 
 </details>
 
-### 🔑 Owner Commands `(20)`
-
-<details>
-<summary>Click to expand Owner Commands</summary>
-
-| Command | Description |
-|:--------|:------------|
-| `m!botstatus` | Change the bot's presence/status |
-| `m!broadcast` | Broadcast a message to all servers |
-| `m!cmdstats` | View per-command usage statistics |
-| `m!disablecmd` | Disable a command globally |
-| `m!eval` | Execute arbitrary JavaScript (owner only) |
-| `m!finduser` | Find a user across all servers |
-| `m!globalannounce` | Announce to every server |
-| `m!globalprefix` | Change the global default prefix |
-| `m!invitegen` | Generate a custom bot invite |
-| `m!leaveserver` | Force the bot to leave a server |
-| `m!maintenance` | Toggle maintenance mode |
-| `m!noprefix` | Toggle no-prefix mode for a user |
-| `m!ownercmds` | List all owner-only commands |
-| `m!ownerinfo` | View owner info embed |
-| `m!reboot` | Restart the bot process |
-| `m!sc` | Quick server check |
-| `m!serverlog` | View the server join/leave log |
-| `m!spylist` | View the spy list |
-| `m!trustserver` | Trust a server for advanced features |
-| `m!userglobal` | Manage global user settings |
-
-</details>
-
 ### 🔧 Utility Commands `(25)`
 
 <details>

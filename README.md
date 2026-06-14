@@ -46,16 +46,6 @@ This repository hosts the **official Privacy Policy** for **Miko** — a multipu
 
 ---
 
-## 🌐 GitHub Pages Setup
-
-This policy is hosted via **GitHub Pages** from the `main` branch root.
-
-To enable after pushing:
-1. Go to repo **Settings → Pages**
-2. Set source to **Deploy from a branch → main → / (root)**
-3. Save — your site will be live at `https://MikoDev-Sd.github.io/miko-privacy/`
-
----
 
 ## 📬 Contact
 

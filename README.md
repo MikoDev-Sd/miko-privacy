@@ -205,21 +205,13 @@ process.on("uncaughtException", (err) => {
 |:--------|:------------|
 | `m!announce` | Send a formatted announcement to a channel |
 | `m!ar` | Manage auto-responder rules for the server |
-| `m!blacklist` | Blacklist a user from using the bot |
-| `m!dm` | Send a direct message to a user |
-| `m!dma` | DM all members with a message (requires auth) |
 | `m!ear` | Edit an existing auto-responder entry |
 | `m!edit` | Edit a message sent by the bot |
 | `m!em` | Send a custom embed message |
 | `m!embededit` | Edit an existing embed sent by the bot |
 | `m!invite` | Generate a bot invite link |
-| `m!leave` | Make the bot leave a specified server |
 | `m!memberlist` | List all members in the server |
-| `m!sdma` | Scheduled DM to all members |
-| `m!sdmaa` | Advanced scheduled mass DM |
 | `m!send` | Send a plain message to any channel |
-| `m!servernuke` | Emergency server nuke (owner protected) |
-| `m!servers` | List all servers the bot is in |
 | `m!setreportchannel` | Set the report receiving channel |
 | `m!stats` | View bot usage statistics |
 | `m!stealemoji` | Steal an emoji from another server |

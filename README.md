@@ -748,15 +748,6 @@ If you have questions, want to request data deletion, report a concern, or need 
 
 ---
 
-## 🌐 Live Policy Page
-
-This privacy policy is also available as a fully styled webpage hosted on **GitHub Pages**:
-
-> ### 🔗 [MikoDev-Sd.github.io/miko-privacy](https://MikoDev-Sd.github.io/miko-privacy/)
-
-The `index.html` in this repository is automatically served via GitHub Pages from the `main` branch root.
-
----
 
 <div align="center">
 

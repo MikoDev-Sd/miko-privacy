@@ -6,23 +6,6 @@
 
 <div align="center">
 
-```
-███╗   ███╗██╗██╗  ██╗ ██████╗     ██╗   ██╗███████╗
-████╗ ████║██║██║ ██╔╝██╔═══██╗    ██║   ██║╚════██║
-██╔████╔██║██║█████╔╝ ██║   ██║    ██║   ██║    ██╔╝
-██║╚██╔╝██║██║██╔═██╗ ██║   ██║    ╚██╗ ██╔╝   ██╔╝
-██║ ╚═╝ ██║██║██║  ██╗╚██████╔╝     ╚████╔╝    ██║
-╚═╝     ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝       ╚═══╝     ╚═╝
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-       P R I V A C Y   P O L I C Y  —  O F F I C I A L
-```
-
-*Transparency · Security · Trust · Power · Reliability*
-
-</div>
-
-<div align="center">
-
 [![Add Miko](https://img.shields.io/badge/➕%20Add%20Miko%20to%20Your%20Server-CC0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1477957460575649903&scope=bot%20applications.commands&permissions=0)
 [![Support Server](https://img.shields.io/badge/💬%20Support%20Server-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DUKpjHJtj3)
 [![Policy Live](https://img.shields.io/badge/📜%20Policy%20Page-Live-FF3333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikoDev-Sd/miko-privacy)

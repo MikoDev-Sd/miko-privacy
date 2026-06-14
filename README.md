@@ -149,7 +149,7 @@ process.on("uncaughtException", (err) => {
 
 ### 🖼️ Bot Preview
 
-> **Note:** Screenshots taken from live Miko sessions. Bot appearance may vary based on server configuration.
+> **Note:** This is not the original bot UI, but the bot's actual UI is very similar to it.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐

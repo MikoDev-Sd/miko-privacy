@@ -22,7 +22,7 @@
 [![Commands](https://img.shields.io/badge/Commands-146+%20Prefix%20%7C%2088+%20Slash-8B0000?style=flat-square&logo=discord&logoColor=white)](.)
 [![Developer](https://img.shields.io/badge/Dev-levi__ackerman.09-FF0000?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/DUKpjHJtj3)
 [![Status](https://img.shields.io/badge/Status-Online%20%F0%9F%9F%A2-CC0000?style=flat-square)](.)
-[![Hosting](https://img.shields.io/badge/Host-Orihost%20%2F%20Pterodactyl-8B0000?style=flat-square)](.)
+[![Hosting](https://img.shields.io/badge/Host-Railway%20%2F%20Pterodactyl-8B0000?style=flat-square)](.)
 
 </div>
 
@@ -64,11 +64,11 @@
 │                    MIKO V7 — CORE                       │
 ├──────────────┬──────────────────┬───────────────────────┤
 │  Runtime     │  Framework       │  Hosting              │
-│  Node.js 18+ │  discord.js v14  │  Railway/Pterodactyl  │
+│  Node.js 18+ │  discord.js v14  │  Railway / Pterodactyl  │
 ├──────────────┼──────────────────┼───────────────────────┤
 │  Database    │  API             │  Crash Guard          │
-│  JSON +      │  Express/REST    │  Global Uncaught      │
-│  Firebase DB │  Webhook System  │  Exception Handler    │
+│  JSON        │  Express/REST    │  Global Uncaught      │
+│  (local)     │  Webhook System  │  Exception Handler    │
 └──────────────┴──────────────────┴───────────────────────┘
 ```
 
@@ -103,7 +103,7 @@ process.on("uncaughtException", (err) => {
 | 📦 **Framework**            | `discord.js v14.14.1`                                               |
 | 🟢 **Node.js Requirement**  | `≥ 18.0.0`                                                          |
 | 🛡️ **Intents Used**         | `Guilds, Messages, Members, Voice, Moderation, Invites`             |
-| 💾 **Database**             | `JSON (local) + Firebase Realtime DB`                               |
+| 💾 **Database**             | `JSON (local)`                                                              |
 | 🌐 **Dashboard**            | `Express API + Webhook System`                                      |
 
 </div>
@@ -442,9 +442,8 @@ Every single piece of data Miko collects has one specific, limited purpose:
 
 ```
 [✔]  Bot token stored in .env — NEVER hardcoded in any file
-[✔]  Firebase credentials kept private on the hosting server only
 [✔]  Webhook URLs stored in config, never logged or exposed to users
-[✔]  Hosting via Orihost / Pterodactyl panel with restricted panel access
+[✔]  Hosting via Railway / Pterodactyl panel with restricted panel access
 [✔]  Data accessible only to bot owner (levi_ackerman.09) and authorized devs
 [✔]  No third-party analytics, tracking scripts, or ad networks used anywhere
 [✔]  Global uncaught exception handler prevents accidental data exposure via crashes
@@ -461,9 +460,8 @@ Every single piece of data Miko collects has one specific, limited purpose:
 
 | Third Party                    | Used For                                   | What Is Shared                        |
 |:-------------------------------|:-------------------------------------------|:--------------------------------------|
-| **Firebase (by Google)**       | Ranking data storage for tier system       | IGN, Tier level, User ID only         |
 | **Discord API**                | Core bot functionality                     | Standard Discord API scope            |
-| **Orihost / Pterodactyl**      | Bot hosting infrastructure                 | No user data — server files only      |
+| **Railway / Pterodactyl**      | Bot hosting infrastructure                 | No user data — server files only      |
 | **No one else**                | —                                          | Absolutely nothing                    |
 
 </div>
@@ -487,7 +485,6 @@ You have the full right to request deletion of your data at any time.
 
 ### 📝 Manual Deletion — What You Can Request
 - All warning records for a specific user in a specific server
-- IGN / Tier ranking data linked to your Discord User ID
 - Your server's complete configuration data (prefix, logs, autorole, sticky)
 - Any stored reminders or AFK entries
 - Auto-responder rules set for your server
@@ -546,7 +543,7 @@ To exercise any of these rights, contact the developer directly via [Support Ser
 ║  ✅  Owner guard system (ownerGuard utility)         ║
 ║  ✅  34 games added (Connect4, Snake, Wordle, etc.)  ║
 ║  ✅  Mass DM system with authorization               ║
-║  ✅  Pterodactyl / Orihost deployment                ║
+║  ✅  Railway / Pterodactyl deployment                ║
 ║  ✅  Official website launched: miko7.netlify.app    ║
 ║  ✅  Privacy Policy published (June 2026)            ║
 ╚══════════════════════════════════════════════════════╝

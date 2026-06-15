@@ -468,7 +468,6 @@ Every single piece of data Miko collects has one specific, limited purpose:
 ✗  We do NOT share data with other Discord bots
 ✗  We do NOT use data for cross-platform tracking
 ✗  We do NOT share data with any government entities unless legally compelled
-✓  Firebase is the ONLY external data service — used solely for ranking features
 ```
 
 ---

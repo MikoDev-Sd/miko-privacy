@@ -117,7 +117,6 @@ process.on("uncaughtException", (err) => {
 ║  ✅  146 prefix commands + 88 slash commands                 ║
 ║  ✅  Never crashes — global exception handler built in       ║
 ║  ✅  Per-server configuration (prefix, logs, autorole)       ║
-║  ✅  Firebase-backed ranking & tier system via /rp           ║
 ║  ✅  Full moderation suite (ban, kick, mute, timeout, purge) ║
 ║  ✅  34 multiplayer & solo games in one bot                  ║
 ║  ✅  Invite tracker with cache system                        ║
@@ -377,13 +376,11 @@ Miko collects **only the minimum data** required to provide its features. We bel
 | **Discord Channel IDs** | Log channels, slowmode targets, report channels, sticky | ✅ Yes |
 | **Discord Role IDs** | Autorole setup and moderation role tracking | ✅ Yes |
 | **Message Content** | `m!snipe` and AFK auto-detection — RAM only, cleared on restart | ❌ Temporary |
-| **IGN / Tier Data** | Ranking features submitted via `/rp` command | ✅ Firebase |
 | **Warn / Mod Records** | Warnings issued via `/warn` or `m!warn` per user per server | ✅ Yes |
 | **AFK Status & Message** | Set via `/afk` — cleared when user sends a message or restarts | ❌ Temporary |
 | **Invite Cache** | Invite tracking per server — lives in RAM, refreshed on startup | ❌ RAM Only |
 | **Auto-Responder Rules** | Custom keyword triggers set by server admins | ✅ Yes |
 | **Blacklist Records** | Users globally blocked from bot usage by owner | ✅ Yes |
-| **DM Authorization** | Servers/users granted mass-DM permissions | ✅ Yes |
 
 </div>
 
@@ -431,7 +428,6 @@ Every single piece of data Miko collects has one specific, limited purpose:
 
 | Storage Layer | What Is Stored | Access Level |
 |:--------------|:---------------|:------------|
-| **Firebase Realtime Database** | IGN / Tier ranking data from `/rp` | Bot owner & authorized devs only |
 | **Local JSON Files** | Warns, AFK, prefixes, autoroles, log channels, sticky, blacklist, DM auth | Bot owner & authorized devs only |
 | **RAM (Temporary)** | Snipe message cache, AFK status, invite cache | Cleared on every bot restart |
 | **config.json** | Bot token reference (env), webhook URLs, owner IDs | Hosting server only — never exposed |
@@ -504,7 +500,7 @@ You have the full right to request deletion of your data at any time.
 Miko operates fully within **Discord's Terms of Service**, which requires all users to be **at least 13 years old** (or the minimum age required in their country).
 
 - We do **not** knowingly collect data from users under 13
-- If a user under 13 has submitted data (e.g. via `/rp` ranking), we will delete it immediately upon becoming aware
+- If a user under 13 has submitted data, we will delete it immediately upon becoming aware
 - Parents or legal guardians may contact us directly to request removal of a minor's data
 - If you suspect a minor is using Miko inappropriately, please report it via our [Support Server](https://discord.gg/DUKpjHJtj3)
 
@@ -540,7 +536,6 @@ To exercise any of these rights, contact the developer directly via [Support Ser
 ║  ✅  Global crash guard — bot never goes down        ║
 ║  ✅  146 prefix commands fully categorized           ║
 ║  ✅  88+ slash commands deployed                     ║
-║  ✅  Firebase Realtime DB integration (/rp system)   ║
 ║  ✅  Express API server with webhook dashboard       ║
 ║  ✅  Per-server config via JSON                      ║
 ║  ✅  Invite tracking with cache system               ║

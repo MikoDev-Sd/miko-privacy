@@ -411,7 +411,6 @@ Every single piece of data Miko collects has one specific, limited purpose:
 | **Server IDs** | Store per-server prefix, autorole, log channel, sticky, and report channel config |
 | **Channel & Role IDs** | Enable `/lock`, `/setlogs`, `/autorole`, `/slowmode`, report systems |
 | **Message Content** | RAM-only snipe cache for `m!snipe`; AFK detection when mentioned |
-| **IGN / Tier Data** | Firebase Realtime DB ranking system for tier commands |
 | **Warn Records** | Track, view, and clear per-server member warnings |
 | **Invite Cache** | Detect which invite was used when a member joins |
 | **Auto-Responder** | Match keywords and respond with configured text or embeds |

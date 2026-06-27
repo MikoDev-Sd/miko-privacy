@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐%20Official%20Website-miko7.netlify.app-FF0000?style=for-the-badge&logo=netlify&logoColor=white)](https://mik0.netlify.app/)
+[![Website](https://img.shields.io/badge/🌐%20Official%20Website-miko.app-FF0000?style=for-the-badge&logo=netlify&logoColor=white)](https://mik0.netlify.app/)
 [![Add Miko](https://img.shields.io/badge/➕%20Add%20Miko%20to%20Your%20Server-CC0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1477957460575649903&scope=bot%20applications.commands&permissions=0)
 [![Support Server](https://img.shields.io/badge/💬%20Support%20Server-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DUKpjHJtj3)
 [![Policy Live](https://img.shields.io/badge/📜%20Policy%20Page-Live-FF3333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikoDev-Sd/miko-privacy)
